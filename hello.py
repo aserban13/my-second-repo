@@ -1,5 +1,6 @@
 print("My name is Andreea")
 print("My birthday month is Feb.")
 print("My favorite food is mashed potatoes")
+print("I am an aquarius")
 print("My name is Theresa")
 print("I was born in July")
